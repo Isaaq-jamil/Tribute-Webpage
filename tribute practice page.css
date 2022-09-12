@@ -1,0 +1,27 @@
+body{text-align: left; font: normal 25px arial black; background-color: grey;}
+
+body{background:url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");}
+
+.images{width:100%; height:auto; text-align: center;}
+
+a:hover{color:blue;}
+
+h1{font-size: 95px; text-decoration: underline; text-align: center;}
+
+#caption{text-align: center; font: normal 45px arial black; text-decoration: underline;}
+
+#navbar{text-align: center; font: normal 40px arial black; border-radius:40px;
+border: 5px black solid; line-height: 50px;width: auto;margin: auto;padding:20px;}
+
+.tribute{margin-right:0;margin-left: auto;display:block; position: absolute;right: 5%;}
+
+.section{display:flex; justify-content: space-between; padding:40px; width:60%;}
+
+.text{padding-right: 200px;}
+
+
+
+
+
+
+
